@@ -1,4 +1,12 @@
-<p align="center">![Logo horange hort preto](https://github.com/user-attachments/assets/6ab9034b-a4d8-424d-866c-7373ff5e7bb0) width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/aa6df4b0-4dcb-490c-b27f-f0d1ad6d2cc5" width="400" alt="Horange  Logo"></a></p>
 
-## Horange
-Projeto integrado Multidisciplinar de Segundo Semestre, projeto com desenvolvimento em Linguagem C para um sistema em console par aum Hortfruti
+## Projeto Horange
+
+Projeto integrado Multidisciplinar do Segundo Semestre, projeto com desenvolvimento em Linguagem C de um sistema em console para um Hortfruti.
+
+## Como funciona
+
+## O que deve fazer
+
+## Link para o código:
+
